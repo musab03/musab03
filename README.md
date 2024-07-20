@@ -27,7 +27,7 @@ I am well-versed in various programming languages, including Python, Java, JS, S
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode and read books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musab-khurram-094a83246/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Musab-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musab-khurram-094a83246/)
 
 
 
